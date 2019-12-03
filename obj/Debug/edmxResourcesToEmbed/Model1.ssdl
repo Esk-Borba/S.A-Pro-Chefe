@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="pro_chefeModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="categoria">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nome" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="clientes">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nome" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="telefone" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="cpf" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="cep" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="logradouro" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="numero" Type="int" Nullable="false" />
+    <Property Name="complemento" Type="varchar" MaxLength="150" />
+    <Property Name="bairro" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="uf" Type="varchar" MaxLength="60" Nullable="false" />
+    <Property Name="cidade" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="foto" Type="image" />
+  </EntityType>
+  <EntityType Name="delivery">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_pedido" Type="int" Nullable="false" />
+    <Property Name="id_cliente" Type="int" Nullable="false" />
+    <Property Name="id_entregador" Type="int" />
+    <Property Name="processado" Type="bit" Nullable="false" />
+    <Property Name="quantidade" Type="int" Nullable="false" />
+    <Property Name="categoria" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="id_produto" Type="int" />
+  </EntityType>
+  <EntityType Name="ingrediente">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nome" Type="varchar" MaxLength="60" Nullable="false" />
+    <Property Name="estoque" Type="int" Nullable="false" />
+    <Property Name="unidade" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="itens_pedido">
+    <Key>
+      <PropertyRef Name="id_pedido" />
+      <PropertyRef Name="id_produto" />
+    </Key>
+    <Property Name="id_pedido" Type="int" Nullable="false" />
+    <Property Name="id_produto" Type="int" Nullable="false" />
+    <Property Name="quantidade" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="mesa">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="capacidade" Type="int" Nullable="false" />
+    <Property Name="disponibilidade" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="observacao" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="pedido">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="data" Type="datetime2" Precision="0" Nullable="false" />
+    <Property Name="id_mesa" Type="int" />
+    <Property Name="hora" Type="time" Precision="0" />
+    <Property Name="delivery2" Type="bit" />
+  </EntityType>
+  <EntityType Name="produto">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nome" Type="varchar" MaxLength="60" Nullable="false" />
+    <Property Name="descricao" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="preco" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="id_categoria" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="produto_ingrediente">
+    <Key>
+      <PropertyRef Name="id_produto" />
+      <PropertyRef Name="id_ingrediente" />
+    </Key>
+    <Property Name="id_produto" Type="int" Nullable="false" />
+    <Property Name="id_ingrediente" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tipo_usuario">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nome" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="usuario">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nome" Type="varchar" MaxLength="60" Nullable="false" />
+    <Property Name="login" Type="char" MaxLength="8" />
+    <Property Name="senha" Type="char" MaxLength="8" />
+    <Property Name="tipo_usuario" Type="int" Nullable="false" />
+    <Property Name="ativo" Type="bit" />
+  </EntityType>
+  <EntityType Name="valor_mesa">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_mesa" Type="int" Nullable="false" />
+    <Property Name="valor" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_cliente_delivery">
+    <End Role="clientes" Type="Self.clientes" Multiplicity="1" />
+    <End Role="delivery" Type="Self.delivery" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="clientes">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="delivery">
+        <PropertyRef Name="id_cliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_entregador_delivery">
+    <End Role="usuario" Type="Self.usuario" Multiplicity="0..1" />
+    <End Role="delivery" Type="Self.delivery" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="usuario">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="delivery">
+        <PropertyRef Name="id_entregador" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ingrediente_produto">
+    <End Role="ingrediente" Type="Self.ingrediente" Multiplicity="1" />
+    <End Role="produto_ingrediente" Type="Self.produto_ingrediente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ingrediente">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="produto_ingrediente">
+        <PropertyRef Name="id_ingrediente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_itens_pedido">
+    <End Role="pedido" Type="Self.pedido" Multiplicity="1" />
+    <End Role="itens_pedido" Type="Self.itens_pedido" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="pedido">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="itens_pedido">
+        <PropertyRef Name="id_pedido" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_itens_produto">
+    <End Role="produto" Type="Self.produto" Multiplicity="1" />
+    <End Role="itens_pedido" Type="Self.itens_pedido" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="produto">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="itens_pedido">
+        <PropertyRef Name="id_produto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_mesa_pedido">
+    <End Role="mesa" Type="Self.mesa" Multiplicity="0..1" />
+    <End Role="pedido" Type="Self.pedido" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="mesa">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="pedido">
+        <PropertyRef Name="id_mesa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_pedido_delivery">
+    <End Role="pedido" Type="Self.pedido" Multiplicity="1" />
+    <End Role="delivery" Type="Self.delivery" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="pedido">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="delivery">
+        <PropertyRef Name="id_pedido" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_produto_categoria">
+    <End Role="categoria" Type="Self.categoria" Multiplicity="1" />
+    <End Role="produto" Type="Self.produto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="categoria">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="produto">
+        <PropertyRef Name="id_categoria" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_produto_delivery">
+    <End Role="produto" Type="Self.produto" Multiplicity="0..1" />
+    <End Role="delivery" Type="Self.delivery" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="produto">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="delivery">
+        <PropertyRef Name="id_produto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_produto_ingrediente">
+    <End Role="produto" Type="Self.produto" Multiplicity="1" />
+    <End Role="produto_ingrediente" Type="Self.produto_ingrediente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="produto">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="produto_ingrediente">
+        <PropertyRef Name="id_produto" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tipo_usuario">
+    <End Role="tipo_usuario" Type="Self.tipo_usuario" Multiplicity="1" />
+    <End Role="usuario" Type="Self.usuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tipo_usuario">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="usuario">
+        <PropertyRef Name="tipo_usuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_valor_mesa_mesa">
+    <End Role="mesa" Type="Self.mesa" Multiplicity="1" />
+    <End Role="valor_mesa" Type="Self.valor_mesa" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="mesa">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="valor_mesa">
+        <PropertyRef Name="id_mesa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="pro_chefeModelStoreContainer">
+    <EntitySet Name="categoria" EntityType="Self.categoria" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="clientes" EntityType="Self.clientes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="delivery" EntityType="Self.delivery" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ingrediente" EntityType="Self.ingrediente" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="itens_pedido" EntityType="Self.itens_pedido" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="mesa" EntityType="Self.mesa" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="pedido" EntityType="Self.pedido" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="produto" EntityType="Self.produto" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="produto_ingrediente" EntityType="Self.produto_ingrediente" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tipo_usuario" EntityType="Self.tipo_usuario" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="usuario" EntityType="Self.usuario" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="valor_mesa" EntityType="Self.valor_mesa" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_cliente_delivery" Association="Self.FK_cliente_delivery">
+      <End Role="clientes" EntitySet="clientes" />
+      <End Role="delivery" EntitySet="delivery" />
+    </AssociationSet>
+    <AssociationSet Name="FK_entregador_delivery" Association="Self.FK_entregador_delivery">
+      <End Role="usuario" EntitySet="usuario" />
+      <End Role="delivery" EntitySet="delivery" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ingrediente_produto" Association="Self.FK_ingrediente_produto">
+      <End Role="ingrediente" EntitySet="ingrediente" />
+      <End Role="produto_ingrediente" EntitySet="produto_ingrediente" />
+    </AssociationSet>
+    <AssociationSet Name="FK_itens_pedido" Association="Self.FK_itens_pedido">
+      <End Role="pedido" EntitySet="pedido" />
+      <End Role="itens_pedido" EntitySet="itens_pedido" />
+    </AssociationSet>
+    <AssociationSet Name="FK_itens_produto" Association="Self.FK_itens_produto">
+      <End Role="produto" EntitySet="produto" />
+      <End Role="itens_pedido" EntitySet="itens_pedido" />
+    </AssociationSet>
+    <AssociationSet Name="FK_mesa_pedido" Association="Self.FK_mesa_pedido">
+      <End Role="mesa" EntitySet="mesa" />
+      <End Role="pedido" EntitySet="pedido" />
+    </AssociationSet>
+    <AssociationSet Name="FK_pedido_delivery" Association="Self.FK_pedido_delivery">
+      <End Role="pedido" EntitySet="pedido" />
+      <End Role="delivery" EntitySet="delivery" />
+    </AssociationSet>
+    <AssociationSet Name="FK_produto_categoria" Association="Self.FK_produto_categoria">
+      <End Role="categoria" EntitySet="categoria" />
+      <End Role="produto" EntitySet="produto" />
+    </AssociationSet>
+    <AssociationSet Name="FK_produto_delivery" Association="Self.FK_produto_delivery">
+      <End Role="produto" EntitySet="produto" />
+      <End Role="delivery" EntitySet="delivery" />
+    </AssociationSet>
+    <AssociationSet Name="FK_produto_ingrediente" Association="Self.FK_produto_ingrediente">
+      <End Role="produto" EntitySet="produto" />
+      <End Role="produto_ingrediente" EntitySet="produto_ingrediente" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tipo_usuario" Association="Self.FK_tipo_usuario">
+      <End Role="tipo_usuario" EntitySet="tipo_usuario" />
+      <End Role="usuario" EntitySet="usuario" />
+    </AssociationSet>
+    <AssociationSet Name="FK_valor_mesa_mesa" Association="Self.FK_valor_mesa_mesa">
+      <End Role="mesa" EntitySet="mesa" />
+      <End Role="valor_mesa" EntitySet="valor_mesa" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

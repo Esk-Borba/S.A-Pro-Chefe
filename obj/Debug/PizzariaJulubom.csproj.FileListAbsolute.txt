@@ -1,0 +1,708 @@
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\bin\Debug\PizzariaJulubom.exe
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\bin\Debug\EntityFramework.dll
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\bin\Debug\EntityFramework.xml
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\obj\Debug\PizzariaJulubom.exe
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom\PizzariaJulubom\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\obj\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\bin\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\obj\Debug\PizzariaJulubom.mesainfo.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\obj\Debug\PizzariaJulubom.Delivery.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\bin\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\obj\Debug\PizzariaJulubom.Delivery.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\obj\Debug\PizzariaJulubom.mesainfo.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\obj\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom2\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Delivery.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.MesaInfo.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Delivery.resources
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Aluno\Downloads\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\bin\Debug\EntityFramework.dll
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\bin\Debug\EntityFramework.xml
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Delivery.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.exe
+C:\Users\Vinícius\Desktop\PizzariaJulubom4\PizzariaJulubom3\PizzariaJulubom3\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Delivery.resources
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Downloads\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Delivery.resources
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Documents\vinicius\S.A2\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+E:\Borba\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+E:\Borba\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+E:\Borba\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+E:\Borba\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Delivery.resources
+E:\Borba\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Entregador.resources
+E:\Borba\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Inicio.resources
+E:\Borba\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Menu.resources
+E:\Borba\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+E:\Borba\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pedidos.resources
+E:\Borba\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Mesas.resources
+E:\Borba\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pizza.resources
+E:\Borba\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+E:\Borba\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+E:\Borba\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.exe
+E:\Borba\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Delivery.resources
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.exe
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.dll
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.xml
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vinícius\Desktop\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Delivery.resources
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\S.A5 JULIA\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Delivery.resources
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.exe
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.dll
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.xml
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Delivery.resources
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.exe
+C:\Users\Vinícius\Desktop\S.A8\S.A6\S.A com alterações da julia hein\S.A3\S.A\PizzariaJulubom3\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Vinícius\Downloads\S.A9\S.A9\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Vinícius\Downloads\S.A9\S.A9\bin\Debug\PizzariaJulubom.exe
+C:\Users\Vinícius\Downloads\S.A9\S.A9\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Vinícius\Downloads\S.A9\S.A9\bin\Debug\EntityFramework.dll
+C:\Users\Vinícius\Downloads\S.A9\S.A9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vinícius\Downloads\S.A9\S.A9\bin\Debug\EntityFramework.xml
+C:\Users\Vinícius\Downloads\S.A9\S.A9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vinícius\Downloads\S.A9\S.A9\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Vinícius\Downloads\S.A9\S.A9\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Vinícius\Downloads\S.A9\S.A9\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Vinícius\Downloads\S.A9\S.A9\obj\Debug\PizzariaJulubom.Deliverys.resources
+C:\Users\Vinícius\Downloads\S.A9\S.A9\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Vinícius\Downloads\S.A9\S.A9\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Vinícius\Downloads\S.A9\S.A9\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Vinícius\Downloads\S.A9\S.A9\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Vinícius\Downloads\S.A9\S.A9\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Vinícius\Downloads\S.A9\S.A9\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Vinícius\Downloads\S.A9\S.A9\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Vinícius\Downloads\S.A9\S.A9\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Vinícius\Downloads\S.A9\S.A9\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Vinícius\Downloads\S.A9\S.A9\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Vinícius\Downloads\S.A9\S.A9\obj\Debug\PizzariaJulubom.exe
+C:\Users\Vinícius\Downloads\S.A9\S.A9\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Downloads\S.A10\S.A9\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Aluno\Downloads\S.A10\S.A9\bin\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Downloads\S.A10\S.A9\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Downloads\S.A10\S.A9\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Downloads\S.A10\S.A9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Downloads\S.A10\S.A9\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Downloads\S.A10\S.A9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.Deliverys.resources
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Downloads\S.A10\S.A9\obj\Debug\PizzariaJulubom.NovoPedidoDelivery.resources
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\bin\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.Deliverys.resources
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.NovoPedidoDelivery.resources
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\S.A11\S.A9\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\bin\Debug\PizzariaJulubom.exe
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\bin\Debug\EntityFramework.dll
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\bin\Debug\EntityFramework.xml
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.Deliverys.resources
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.NovoPedidoDelivery.resources
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.exe
+C:\Users\Vinícius\Desktop\S.A\S.A12\S.A11\S.A9\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\bin\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.Deliverys.resources
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.NovoPedidoDelivery.resources
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\S.A13\S.A9\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\bin\Debug\PizzariaJulubom.exe
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\bin\Debug\EntityFramework.dll
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\bin\Debug\EntityFramework.xml
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.Deliverys.resources
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.NovoPedidoDelivery.resources
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.exe
+C:\Users\Vinícius\Desktop\S.A\S.A14\S.A9\obj\Debug\PizzariaJulubom.pdb
+D:\Nova pasta (3)\S.A15\S.A9\bin\Debug\PizzariaJulubom.exe.config
+D:\Nova pasta (3)\S.A15\S.A9\bin\Debug\PizzariaJulubom.exe
+D:\Nova pasta (3)\S.A15\S.A9\bin\Debug\PizzariaJulubom.pdb
+D:\Nova pasta (3)\S.A15\S.A9\bin\Debug\EntityFramework.dll
+D:\Nova pasta (3)\S.A15\S.A9\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nova pasta (3)\S.A15\S.A9\bin\Debug\EntityFramework.xml
+D:\Nova pasta (3)\S.A15\S.A9\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.Deliverys.resources
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.Entregador.resources
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.Inicio.resources
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.Menu.resources
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.NovoPedidoDelivery.resources
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.Pedidos.resources
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.Mesas.resources
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.Pizza.resources
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.exe
+D:\Nova pasta (3)\S.A15\S.A9\obj\Debug\PizzariaJulubom.pdb
+E:\S.A9\bin\Debug\PizzariaJulubom.exe.config
+E:\S.A9\bin\Debug\PizzariaJulubom.exe
+E:\S.A9\bin\Debug\PizzariaJulubom.pdb
+E:\S.A9\bin\Debug\EntityFramework.dll
+E:\S.A9\bin\Debug\EntityFramework.SqlServer.dll
+E:\S.A9\bin\Debug\EntityFramework.xml
+E:\S.A9\bin\Debug\EntityFramework.SqlServer.xml
+E:\S.A9\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+E:\S.A9\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+E:\S.A9\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+E:\S.A9\obj\Debug\PizzariaJulubom.Deliverys.resources
+E:\S.A9\obj\Debug\PizzariaJulubom.Entregador.resources
+E:\S.A9\obj\Debug\PizzariaJulubom.Inicio.resources
+E:\S.A9\obj\Debug\PizzariaJulubom.Menu.resources
+E:\S.A9\obj\Debug\PizzariaJulubom.NovoPedidoDelivery.resources
+E:\S.A9\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+E:\S.A9\obj\Debug\PizzariaJulubom.Pedidos.resources
+E:\S.A9\obj\Debug\PizzariaJulubom.Mesas.resources
+E:\S.A9\obj\Debug\PizzariaJulubom.Pizza.resources
+E:\S.A9\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+E:\S.A9\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+E:\S.A9\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+E:\S.A9\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+E:\S.A9\obj\Debug\PizzariaJulubom.exe
+E:\S.A9\obj\Debug\PizzariaJulubom.pdb
+D:\S.A9\bin\Debug\PizzariaJulubom.exe.config
+D:\S.A9\bin\Debug\PizzariaJulubom.exe
+D:\S.A9\bin\Debug\PizzariaJulubom.pdb
+D:\S.A9\bin\Debug\EntityFramework.dll
+D:\S.A9\bin\Debug\EntityFramework.SqlServer.dll
+D:\S.A9\bin\Debug\EntityFramework.xml
+D:\S.A9\bin\Debug\EntityFramework.SqlServer.xml
+D:\S.A9\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+D:\S.A9\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+D:\S.A9\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+D:\S.A9\obj\Debug\PizzariaJulubom.Deliverys.resources
+D:\S.A9\obj\Debug\PizzariaJulubom.Entregador.resources
+D:\S.A9\obj\Debug\PizzariaJulubom.Inicio.resources
+D:\S.A9\obj\Debug\PizzariaJulubom.Menu.resources
+D:\S.A9\obj\Debug\PizzariaJulubom.NovoPedidoDelivery.resources
+D:\S.A9\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+D:\S.A9\obj\Debug\PizzariaJulubom.Pedidos.resources
+D:\S.A9\obj\Debug\PizzariaJulubom.Mesas.resources
+D:\S.A9\obj\Debug\PizzariaJulubom.Pizza.resources
+D:\S.A9\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+D:\S.A9\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+D:\S.A9\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+D:\S.A9\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+D:\S.A9\obj\Debug\PizzariaJulubom.exe
+D:\S.A9\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.Deliverys.resources
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.Entregador.resources
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.NovoPedidoDelivery.resources
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.exe
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno.SN-314083\Downloads\S.A16\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Aluno.SN-314083\Downloads\S.A16\bin\Debug\PizzariaJulubom.exe
+C:\Users\Aluno.SN-314083\Downloads\S.A16\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno.SN-314083\Downloads\S.A16\bin\Debug\EntityFramework.dll
+C:\Users\Aluno.SN-314083\Downloads\S.A16\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno.SN-314083\Downloads\S.A16\bin\Debug\EntityFramework.xml
+C:\Users\Aluno.SN-314083\Downloads\S.A16\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno.SN-314083\Downloads\S.A16\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.Deliverys.resources
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.Entregador.resources
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.Inicio.resources
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.Menu.resources
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.NovoPedidoDelivery.resources
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.Pedidos.resources
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.Mesas.resources
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.Pizza.resources
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.exe
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.pdb
+D:\Nova pasta (3)\S.A17\S.A16\bin\Debug\PizzariaJulubom.exe.config
+D:\Nova pasta (3)\S.A17\S.A16\bin\Debug\PizzariaJulubom.exe
+D:\Nova pasta (3)\S.A17\S.A16\bin\Debug\PizzariaJulubom.pdb
+D:\Nova pasta (3)\S.A17\S.A16\bin\Debug\EntityFramework.dll
+D:\Nova pasta (3)\S.A17\S.A16\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nova pasta (3)\S.A17\S.A16\bin\Debug\EntityFramework.xml
+D:\Nova pasta (3)\S.A17\S.A16\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nova pasta (3)\S.A17\S.A16\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.Deliverys.resources
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.Inicio.resources
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.Menu.resources
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.NovoPedidoDelivery.resources
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.Pedidos.resources
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.Mesas.resources
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.Pizza.resources
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.exe
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.pdb
+D:\Nova pasta (3)\S.ACerta\S.A16\bin\Debug\PizzariaJulubom.exe.config
+D:\Nova pasta (3)\S.ACerta\S.A16\bin\Debug\PizzariaJulubom.exe
+D:\Nova pasta (3)\S.ACerta\S.A16\bin\Debug\PizzariaJulubom.pdb
+D:\Nova pasta (3)\S.ACerta\S.A16\bin\Debug\EntityFramework.dll
+D:\Nova pasta (3)\S.ACerta\S.A16\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nova pasta (3)\S.ACerta\S.A16\bin\Debug\EntityFramework.xml
+D:\Nova pasta (3)\S.ACerta\S.A16\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+D:\Nova pasta (3)\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.Alteracoes.resources
+D:\S.ACerta\S.A16\bin\Debug\PizzariaJulubom.exe.config
+D:\S.ACerta\S.A16\bin\Debug\PizzariaJulubom.exe
+D:\S.ACerta\S.A16\bin\Debug\PizzariaJulubom.pdb
+D:\S.ACerta\S.A16\bin\Debug\EntityFramework.dll
+D:\S.ACerta\S.A16\bin\Debug\EntityFramework.SqlServer.dll
+D:\S.ACerta\S.A16\bin\Debug\EntityFramework.xml
+D:\S.ACerta\S.A16\bin\Debug\EntityFramework.SqlServer.xml
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.Deliverys.resources
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.Alteracoes.resources
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.Inicio.resources
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.Menu.resources
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.NovoPedidoDelivery.resources
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.Pedidos.resources
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.Mesas.resources
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.Pizza.resources
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.exe
+D:\S.ACerta\S.A16\obj\Debug\PizzariaJulubom.pdb
+E:\S.A18\S.A16\bin\Debug\PizzariaJulubom.exe.config
+E:\S.A18\S.A16\bin\Debug\PizzariaJulubom.exe
+E:\S.A18\S.A16\bin\Debug\PizzariaJulubom.pdb
+E:\S.A18\S.A16\bin\Debug\EntityFramework.dll
+E:\S.A18\S.A16\bin\Debug\EntityFramework.SqlServer.dll
+E:\S.A18\S.A16\bin\Debug\EntityFramework.xml
+E:\S.A18\S.A16\bin\Debug\EntityFramework.SqlServer.xml
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.Deliverys.resources
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.Alteracoes.resources
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.Inicio.resources
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.Menu.resources
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.NovoPedidoDelivery.resources
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.Pedidos.resources
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.Mesas.resources
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.Pizza.resources
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.exe
+E:\S.A18\S.A16\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\bin\Debug\PizzariaJulubom.exe
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\bin\Debug\EntityFramework.dll
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\bin\Debug\EntityFramework.xml
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.Deliverys.resources
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.Alteracoes.resources
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.NovoPedidoDelivery.resources
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.exe
+C:\Users\Vinícius\Desktop\S.A\ARRUMAR_AS_TABELAS\ARRUMAR_AS_TABELAS\S.A16\obj\Debug\PizzariaJulubom.pdb
+D:\Nova pasta (3)\S.A19\S.A16\bin\Debug\PizzariaJulubom.exe.config
+D:\Nova pasta (3)\S.A19\S.A16\bin\Debug\PizzariaJulubom.exe
+D:\Nova pasta (3)\S.A19\S.A16\bin\Debug\PizzariaJulubom.pdb
+D:\Nova pasta (3)\S.A19\S.A16\bin\Debug\EntityFramework.dll
+D:\Nova pasta (3)\S.A19\S.A16\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nova pasta (3)\S.A19\S.A16\bin\Debug\EntityFramework.xml
+D:\Nova pasta (3)\S.A19\S.A16\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.Deliverys.resources
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.Alteracoes.resources
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.Inicio.resources
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.Menu.resources
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.NovoPedidoDelivery.resources
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.Pedidos.resources
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.Mesas.resources
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.Pizza.resources
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.exe
+D:\Nova pasta (3)\S.A19\S.A16\obj\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\bin\Debug\PizzariaJulubom.exe.config
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\bin\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\bin\Debug\PizzariaJulubom.pdb
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\bin\Debug\EntityFramework.dll
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\bin\Debug\EntityFramework.xml
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.CadastroCliente.resources
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.CadastroUsuario.resources
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.Deliverys.resources
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.Alteracoes.resources
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.Inicio.resources
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.Menu.resources
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.NovoPedidoDelivery.resources
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.PedidoCliente.resources
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.Pedidos.resources
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.Mesas.resources
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.Pizza.resources
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.Properties.Resources.resources
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.csproj.CopyComplete
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.exe
+C:\Users\Aluno\Documents\vinicius\SAUltimaCerto\S.A19\S.A16\obj\Debug\PizzariaJulubom.pdb
